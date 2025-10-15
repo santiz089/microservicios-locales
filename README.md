@@ -97,7 +97,7 @@ Eres libre de usar, modificar y distribuir el código siempre que mantengas el a
 
 ## 👨‍💻 Autor
 
-**Luis [Tu Apellido]**  
+**Luis Santiz**  
 Proyecto académico — *Servicios Web*  
 Instituto Tecnológico de Iztapalapa  
 2025
